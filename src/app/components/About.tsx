@@ -1,11 +1,7 @@
 'use client'
-
-
 import React, { FC } from 'react'
 import { motion } from 'framer-motion'
 import Image from 'next/image';
-
-
 
 const SocialLink: FC<{ children: React.ReactNode }> = ({ children }) => <p className='underline'>{children}</p>
 
