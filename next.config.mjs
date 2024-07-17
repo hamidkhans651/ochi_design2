@@ -3,5 +3,7 @@ const NextConfig ={
     eslint: {
         ignoreDuringBuilds: true,
 
-    };
+    },
 }
+
+module.exports =NextConfig
