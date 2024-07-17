@@ -12,7 +12,7 @@ function Cards() {
           <button className='absolute text-xs md:text-sm px-2 md:px-5 py-1  rounded-full  border-2 left-10 bottom-10 md:bottom-8 md:left-8 tracking-tighter '>©2019</button>
         </div>
         <div className='card relative rounded-xl w-full h-full bg-[#212121] flex items-center justify-center '>
-          {/* <Image className='w-32 md:w-48' src="https://ochi.design/wp-content/uploads/2022/04/logo002.svg" alt="" fill={true} /> */}
+          <Image className='w-32 md:w-48' src="https://ochi.design/wp-content/uploads/2022/04/logo002.svg" alt="" fill={true} />
           <button className='absolute text-xs md:text-sm px-2 md:px-5 py-1  rounded-full  border-2 left-10 bottom-10 md:bottom-8 md:left-8 tracking-tighter'>RATING 5.0 ON CLUTCH</button>
         </div>
         <div className='card relative rounded-xl w-full h-full bg-[#212121]  flex items-center justify-center '>
